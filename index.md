@@ -15,7 +15,7 @@
 
 ## Competition
 ### IEO
-IEO China Syllabus_First Edition(2020年1月编制)<br/>
+[IEO China Syllabus_First Edition(2020年1月编制)][IEO China Syllabus_First Edition(2020年1月编制)]<br/>
 IEO Syllabus(2020年6月发布)<br/>
 IEO2021赛季及项目介绍<br/>
 参赛二维码<br/>
@@ -32,3 +32,5 @@ FBLA Competencies and Tasks<br/>
 FBLA Knowledge Map<br/>
 2020~2021经济社第一次活动介绍——FBLA<br/>
 2020-21-FBLA-Competitive-Events-3<br/>
+
+[IEO China Syllabus_First Edition(2020年1月遍制)]: https://github.com/JzibEconomicClub/download/raw/master/ieo/IEO%20China%20Syllabus_First%20Edition(2020%E5%B9%B41%E6%9C%88%E7%BC%96%E5%88%B6).pdf
