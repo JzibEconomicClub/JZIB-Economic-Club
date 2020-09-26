@@ -30,7 +30,7 @@
 [FBLA 2021学生手册 中文版(C)][test15]<br/>
 [FBLA Competencies and Tasks][test16]<br/>
 [FBLA Knowledge Map][test17]<br/>
-[2020~2021经济社第一次活动介绍][test18]——FBLA<br/>
+[2020~2021经济社第一次活动介绍——FBLA][test18]<br/>
 [2020-21-FBLA-Competitive-Events-3][test19]<br/>
 
 [test1]:https://github.com/JzibEconomicClub/download/raw/master/textbook/%E3%80%8A%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%8E%9F%E7%90%86__%E7%AC%AC7%E7%89%88__%E5%AE%8F%E8%A7%82%E7%BB%8F%E6%B5%8E%E5%AD%A6%E5%88%86%E5%86%8C%EF%BC%88%E9%AB%98%E6%B8%85%EF%BC%89%E3%80%8BN.%E6%A0%BC%E9%87%8C%E9%AB%98%E5%88%A9%C2%B7%E6%9B%BC%E6%98%86_%EF%BC%88N.Gregory_Mankiw%EF%BC%89.pdf
