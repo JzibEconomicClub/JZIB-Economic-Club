@@ -1,4 +1,4 @@
-# Welcome to Jdfzib Economic Club!
+# Welcome to Jdfzib Economics Club!
 ## Introduction
 本资料库致力于为JZIB经济社的社员们提供经济学知识学习和经济商业竞赛方面的全面知识，辅助社员们更好的进行经济学知识的学习和竞赛的准备。
 ## Activity Time
