@@ -13,11 +13,11 @@
 [微观经济学 曼昆（英文版）][test4]<br/>
 [IB经济课本][test20]<br/>
 ### 课件
-[Chapter 4][test31]<br/>
-[Chapter 5][test32]<br/>
-[Chapter 7][test33]<br/>
-[Chapter 10][test34]<br/>
-[Chapter 13][test35]<br/>
+[Chapter 4][test32]<br/>
+[Chapter 5][test33]<br/>
+[Chapter 7][test34]<br/>
+[Chapter 10][test35]<br/>
+[Chapter 13][test36]<br/>
 [Chapter 23][test21]<br/>
 [Chapter 24][test22]<br/>
 [Chapter 25][test23]<br/>
@@ -84,8 +84,8 @@
 [test31]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2031.pptx
 [test29]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2033.pptx
 [test30]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2034.pptx
-[test31]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2004.pptx
-[test32]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2005.pptx
-[test33]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2007.pptx
-[test34]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2010.pptx
-[test35]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2013.pptx
+[test32]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2004.pptx
+[test33]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2005.pptx
+[test34]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2007.pptx
+[test35]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2010.pptx
+[test36]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2013.pptx
