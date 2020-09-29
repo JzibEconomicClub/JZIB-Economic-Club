@@ -11,7 +11,24 @@
 [经济学原理_微观经济学分册][test2]<br/>
 [宏观经济学 曼昆（英文版）][test3]<br/>
 [微观经济学 曼昆（英文版）][test4]<br/>
+[IB经济课本][test20]<br/>
 ### 课件
+[Chapter 4][test31]<br/>
+[Chapter 5][test32]<br/>
+[Chapter 7][test33]<br/>
+[Chapter 10][test34]<br/>
+[Chapter 13][test35]<br/>
+[Chapter 23][test21]<br/>
+[Chapter 24][test22]<br/>
+[Chapter 25][test23]<br/>
+[Chapter 26][test24]<br/>
+[Chapter 27][test25]<br/>
+[Chapter 28][test26]<br/>
+[Chapter 29][test27]<br/>
+[Chapter 30][test28]<br/>
+[Chapter 31][test31]<br/>
+[Chapter 33][test29]<br/>
+[Chapter 34][test30]<br/>
 ### 练习
 ### 跨学科
 ### 案例分析
@@ -55,3 +72,20 @@
 [test17]:https://github.com/JzibEconomicClub/download/raw/master/fbla/FBLA%20Knowledge%20Map.pdf
 [test18]:https://github.com/JzibEconomicClub/download/raw/master/fbla/2020~2021%E7%BB%8F%E6%B5%8E%E7%A4%BE%E7%AC%AC%E4%B8%80%E6%AC%A1%E6%B4%BB%E5%8A%A8%E4%BB%8B%E7%BB%8D%E2%80%94%E2%80%94FBLA(1).pptx
 [test19]:https://github.com/JzibEconomicClub/download/raw/master/fbla/2020-21-FBLA-Competitive-Events-3.pdf
+[test20]:https://github.com/JzibEconomicClub/download/raw/master/textbook/econ%20book%202.pdf
+[test21]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2023(5).pptx
+[test22]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2024.pptx
+[test23]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2025.pptx
+[test24]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2026(1).pptx
+[test25]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2027(5).pptx
+[test26]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2028(2).pptx
+[test27]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2029.pptx
+[test28]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2030.pptx
+[test31]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2031.pptx
+[test29]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2033.pptx
+[test30]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2034.pptx
+[test31]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2004.pptx
+[test32]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2005.pptx
+[test33]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2007.pptx
+[test34]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2010.pptx
+[test35]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2013.pptx
