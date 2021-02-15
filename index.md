@@ -39,6 +39,16 @@
 [IEO Syllabus(2020年6月发布)][test6]<br/>
 [IEO2021赛季及项目介绍][test7]<br/>
 [参赛二维码][test8]<br/>
+[2018 IEO Financial Literacy Game Description][test37]<br/>
+[2018-2019 IEO Economics合集][test38]<br/>
+[2019 IEO_Financial Literacy Game Description][test39]<br/>
+[2020 IEO Financial Literacy Game Data][test40]<br/>
+[2020 IEO Financial Literacy Game Description][test41]<br/>
+[2020 IEO Financial Literacy Game Interface Onboarding][test42]<br/>
+[2020【初选试题&答案】专业组(Senior Level)][test43]<br/>
+[2020【终选试题&答案】专业组(Senior Level)][test44]<br/>
+[IEOC Syllabus 2021 2nd Edition][test45]<br/>
+
 ### NEC
 [项目介绍][test9]<br/>
 [学生手册][test10]<br/>
@@ -89,3 +99,12 @@
 [test34]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2007.pptx
 [test35]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2010.pptx
 [test36]:https://github.com/JzibEconomicClub/download/raw/master/textbook/Chapter%2013.pptx
+[test37]:https://github.com/JzibEconomicClub/download/raw/master/ieo/2018%20IEO_Financial%20Literacy%20Game%20Description.pdf
+[test38]:https://github.com/JzibEconomicClub/download/raw/master/ieo/2018-2019%20IEO_Economics%E5%90%88%E9%9B%86.pdf
+[test39]:https://github.com/JzibEconomicClub/download/raw/master/ieo/2019%20IEO_Financial%20Literacy%20Game%20Description.pdf
+[test40]:https://github.com/JzibEconomicClub/download/raw/master/ieo/2020%20IEO_Financial%20Literacy%20Game_Data.xlsx
+[test41]:https://github.com/JzibEconomicClub/download/raw/master/ieo/2020%20IEO_Financial%20Literacy%20Game_Description.pdf
+[test42]:https://github.com/JzibEconomicClub/download/raw/master/ieo/2020%20IEO_Financial%20Literacy%20Game_Interface_Onboarding.pdf
+[test43]:https://github.com/JzibEconomicClub/download/raw/master/ieo/2020%E3%80%90%E5%88%9D%E9%80%89%E8%AF%95%E9%A2%98%26%E7%AD%94%E6%A1%88%E3%80%91%E4%B8%93%E4%B8%9A%E7%BB%84(Senior%20Level)_%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%B5%8B%E8%AF%84_IEO%E4%B8%AD%E5%9B%BD%E5%8C%BA.pdf
+[test44]:https://github.com/JzibEconomicClub/download/raw/master/ieo/2020%E3%80%90%E7%BB%88%E9%80%89%E8%AF%95%E9%A2%98%26%E7%AD%94%E6%A1%88%E3%80%91%E4%B8%93%E4%B8%9A%E7%BB%84(Senior%20Level)_%E7%BB%8F%E6%B5%8E%E5%AD%A6%E7%9F%A5%E8%AF%86%E6%B5%8B%E8%AF%84_IEO%E4%B8%AD%E5%9B%BD%E5%8C%BA.pdf
+[test45]:https://github.com/JzibEconomicClub/download/raw/master/ieo/IEOC%20Syllabus%202021_2nd%20Edition(2020%E5%B9%B411%E6%9C%88%E5%8F%91%E5%B8%83).pdf
